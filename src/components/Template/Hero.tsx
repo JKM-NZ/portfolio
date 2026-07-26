@@ -19,7 +19,7 @@ export default function Hero() {
           <a href="https://openai.com" className="hero-highlight">
             ?????
           </a>
-          , What do you want put message?' '}
+          , What do you want put message?{' '}
           <a href="https://promptfoo.dev" className="hero-highlight">
             ??????
           </a>{' '}

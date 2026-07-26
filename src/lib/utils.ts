@@ -3,10 +3,10 @@
  */
 
 // Site configuration
-export const SITE_URL = 'https://mldangelo.com';
-export const AUTHOR_NAME = "Michael D'Angelo";
+export const SITE_URL = 'https://jkm-nz.github.io/portfolio/';
+export const AUTHOR_NAME = "Jennifer Manning";
 export const TWITTER_HANDLE = '@dangelosaurus';
-export const SITE_IMAGE_PATH = '/images/me.jpg';
+export const SITE_IMAGE_PATH = 'portfolio/images/me.jpg';
 export const SITE_IMAGE_DIMENSIONS = {
   width: 1024,
   height: 1024,
@@ -14,7 +14,7 @@ export const SITE_IMAGE_DIMENSIONS = {
 
 // Canonical one-line bio, shared across page metadata, OpenGraph, and JSON-LD.
 export const SITE_DESCRIPTION =
-  'Member of the Technical Staff at OpenAI, working on Promptfoo and agent security. Previously co-founded Promptfoo, Arthena, and Matroid, and led engineering at Smile ID.';
+  'JamJam.';
 
 // Image dimension constants
 export const AVATAR_SIZE = {

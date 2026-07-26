@@ -11,21 +11,21 @@ export default function Hero() {
         </div>
 
         <h1 className="hero-title">
-          <span className="hero-name">Michael D&apos;Angelo</span>
+          <span className="hero-name">Jennifer Manning</span>
         </h1>
 
         <p className="hero-tagline">
-          Member of the Technical Staff at{' '}
+          JAMMJAMM{' '}
           <a href="https://openai.com" className="hero-highlight">
-            OpenAI
+            ?????
           </a>
-          , where I work on{' '}
+          , What do you want put message?' '}
           <a href="https://promptfoo.dev" className="hero-highlight">
-            Promptfoo
+            ??????
           </a>{' '}
-          and agent security.
+          Your time now.
           <br />
-          Previously co-founded, scaled, and sold Promptfoo to OpenAI.
+          To fix all contents.
         </p>
 
         <div className="hero-chips">
